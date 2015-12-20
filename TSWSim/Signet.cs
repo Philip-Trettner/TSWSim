@@ -8,10 +8,12 @@ namespace TSWSim
 {
     public enum Signet
     {
+        None,
+
         Abuse,
         Laceration,
         ConeyIslandBand,
         Aggression,
-        Augur // timber
+        Augur, // timber
     }
 }

@@ -73,6 +73,12 @@ namespace TSWSim
             // passive counters
             var elementalForce = 0;
 
+            // effects
+            var breachingShot = new Effect();
+            var deadlyAim = new Effect();
+            var shortFuse = new Effect();
+            var finalFuse = new Effect();
+
             // Step sim
             var skillIdx = 0;
             var time = 0.0;
@@ -90,6 +96,8 @@ namespace TSWSim
                 var stats = skill.Hits > 0 ? WeaponStats[skill.Weapon] : null;
                 for (var h = 0; h < skill.Hits; ++h)
                 {
+                    Debug.Assert(stats != null, "stats != null");
+
                     // base hit
                     var dmgvar = 1 + (random.NextDouble() * 2 - 1) * BaseDmgVariation;
                     var hit = new Hit
@@ -109,8 +117,9 @@ namespace TSWSim
                         if (hasDeadOnTarget && skill.Weapon == Weapon.Shotgun) additive += .10; // 10% from dead on target 
                         // TODO: lethality
                         // TODO: twist the knife
-                        // TODO: Buff
                         // TODO: signets
+                        if (finalFuse.Affects(hittime)) additive += .25;
+                        if (shortFuse.Affects(hittime)) additive += .15;
 
                         hit.Damage *= 1 + additive;
                     }
@@ -120,7 +129,7 @@ namespace TSWSim
                         // TODO: Mad skills
                         var critChance = stats.CritChance;
                         if (hasSealTheDeal && skill.IsConsumer) critChance += .05; // 5% from seal the deal
-                        // TODO: Buff
+                        if (deadlyAim.Affects(hittime)) critChance += .40; // 40% from deadly aim
 
                         // check crit
                         critChance /= skill.ProcScaling;
@@ -140,7 +149,7 @@ namespace TSWSim
                     {
                         var penChance = PenetrationBaseChance;
                         // TODO: iron maiden
-                        // TODO: Buff
+                        if (breachingShot.Affects(hittime)) penChance += .45; // 45% from breaching shot
 
                         // check pen
                         penChance /= skill.ProcScaling;
@@ -164,24 +173,35 @@ namespace TSWSim
                 }
 
                 // special
-                switch (skill.Special)
-                {
-                    case Special.Bombardment:
-                        break;
-                    case Special.DeadlyAim:
-                        break;
-                    case Special.BreachingShot:
-                        break;
-                    case Special.ShortFuse:
-                        break;
-                    case Special.None:
-                    default:
-                        break;
-                }
+                if (skill.Special != Special.None)
+                    switch (skill.Special)
+                    {
+                        case Special.Bombardment:
+                            break;
+
+                        case Special.DeadlyAim:
+                            deadlyAim.StartTime = time;
+                            deadlyAim.Duration = 10;
+                            break;
+                        case Special.BreachingShot:
+                            breachingShot.StartTime = time;
+                            breachingShot.Duration = 8;
+                            break;
+                        case Special.ShortFuse:
+                            shortFuse.StartTime = time;
+                            shortFuse.Duration = 10;
+                            break;
+                        case Special.FinalFuse:
+                            finalFuse.StartTime = time;
+                            finalFuse.Duration = 10;
+                            break;
+
+                        default: throw new NotImplementedException();
+                    }
 
                 // advance elemental force
                 if (hasElementalForce && skill.CountForEF)
-                    elementalForce = (elementalForce + 1)%8;
+                    elementalForce = (elementalForce + 1) % 8;
 
                 // advance time
                 time += skill.Duration;

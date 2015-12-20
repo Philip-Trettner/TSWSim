@@ -42,6 +42,11 @@ namespace TSWSim.Tests
                 Skills.Striker,
                 Skills.Striker,
                 Skills.Striker,
+                // - buffs
+                Skills.DeadlyAim,
+                Skills.BreachingShot,
+                Skills.ShortFuseExternal,
+                // ---
                 Skills.Striker,
                 Skills.OutForAKill,
                 Skills.Timber,

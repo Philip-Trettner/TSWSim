@@ -69,12 +69,20 @@ namespace TSWSim
             Special = Special.DeadlyAim,
             Weapon = Weapon.Pistol
         };
-        public static Skill ShortFuse => new Skill
+        public static Skill ShortFuseExternal => new Skill
         {
             Name = "Short Fuse",
             Hits = 0,
             CountForEF = false,
             Special = Special.ShortFuse,
+            Weapon = Weapon.Elemental
+        };
+        public static Skill FinalFuseExternal => new Skill
+        {
+            Name = "Short Fuse",
+            Hits = 0,
+            CountForEF = false,
+            Special = Special.FinalFuse,
             Weapon = Weapon.Elemental
         };
 

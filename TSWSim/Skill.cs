@@ -10,7 +10,11 @@ namespace TSWSim
     {
         None,
 
-        Bombardment
+        Bombardment,
+        DeadlyAim,
+        BreachingShot,
+        ShortFuse,
+        FinalFuse,
     }
 
     public class Skill

@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Augment.cs" />
     <Compile Include="CombatLog.cs" />
+    <Compile Include="Effect.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
