@@ -1,0 +1,963 @@
+[13:35:30] Logging started
+[13:35:33] Buff Sprinting VI terminated.
+[13:35:33] You start using Bloodline.
+[13:35:33] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:35:33] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:35:34] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:35:34] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:35:34] You successfully used Bloodline.
+[13:35:34] You start using Bloodline.
+[13:35:34] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:35:34] Your Bloodline hits (Normal) Practice Demon for 174 magical damage. (Penetrated)
+[13:35:35] Your Bloodline hits (Normal) Practice Demon for 187 magical damage. (Penetrated)
+[13:35:35] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:35] You successfully used Bloodline.
+[13:35:35] You start using Bloodline.
+[13:35:35] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:35:35] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:35:36] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:35:36] (Critical) Your Bloodline hits (Normal) Practice Demon for 138 magical damage. (Normal)
+[13:35:36] You successfully used Bloodline.
+[13:35:36] You start using Bloodline.
+[13:35:36] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:35:36] Your Bloodline hits (Normal) Practice Demon for 78 magical damage. (Blocked)
+[13:35:37] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:35:37] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:35:37] You successfully used Bloodline.
+[13:35:37] You start using Bloodline.
+[13:35:37] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:35:37] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:35:38] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:35:38] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:35:38] You successfully used Bloodline.
+[13:35:38] You start using Bloodline.
+[13:35:38] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:35:38] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:35:39] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:35:39] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:35:39] You successfully used Bloodline.
+[13:35:39] You start using Bloodline.
+[13:35:39] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:35:39] Your Bloodline hits (Normal) Practice Demon for 89 magical damage. (Blocked)
+[13:35:40] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:35:40] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:35:40] You successfully used Bloodline.
+[13:35:40] You start using Bloodline.
+[13:35:40] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:35:40] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:35:41] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:35:41] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:35:41] You successfully used Bloodline.
+[13:35:41] You start using Bloodline.
+[13:35:41] Your Bloodline hits (Normal) Practice Demon for 82 magical damage. (Blocked)
+[13:35:41] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:35:42] (Critical) Your Bloodline hits (Normal) Practice Demon for 141 magical damage. (Normal)
+[13:35:42] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:42] You successfully used Bloodline.
+[13:35:42] You start using Bloodline.
+[13:35:42] Your Bloodline hits (Normal) Practice Demon for 89 magical damage. (Blocked)
+[13:35:42] Your Bloodline hits (Normal) Practice Demon for 178 magical damage. (Penetrated)
+[13:35:43] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:35:43] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:35:43] You successfully used Bloodline.
+[13:35:43] You start using Bloodline.
+[13:35:43] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:35:43] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:35:44] Your Bloodline hits (Normal) Practice Demon for 76 magical damage. (Blocked)
+[13:35:44] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:44] You successfully used Bloodline.
+[13:35:44] You start using Bloodline.
+[13:35:44] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:35:44] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:35:45] Your Bloodline hits (Normal) Practice Demon for 130 magical damage. (Normal)
+[13:35:45] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:35:45] You successfully used Bloodline.
+[13:35:45] You start using Bloodline.
+[13:35:45] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:35:45] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:35:46] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:35:46] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:35:46] You successfully used Bloodline.
+[13:35:46] You start using Bloodline.
+[13:35:46] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:35:46] Your Bloodline hits (Normal) Practice Demon for 183 magical damage. (Penetrated)
+[13:35:47] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:35:48] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:35:48] Your Bloodline hits (Normal) Practice Demon for 80 magical damage. (Blocked)
+[13:35:48] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:35:48] You successfully used Bloodline.
+[13:35:48] You start using Bloodline.
+[13:35:48] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:35:48] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:35:48] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:35:49] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:49] You successfully used Bloodline.
+[13:35:49] You start using Bloodline.
+[13:35:49] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:35:49] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:35:49] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:35:50] Your Bloodline hits (Normal) Practice Demon for 89 magical damage. (Blocked)
+[13:35:50] You successfully used Bloodline.
+[13:35:50] You start using Bloodline.
+[13:35:50] Your Bloodline hits (Normal) Practice Demon for 187 magical damage. (Penetrated)
+[13:35:50] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:50] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:51] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:35:51] You successfully used Bloodline.
+[13:35:51] You start using Bloodline.
+[13:35:51] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:35:51] Your Bloodline hits (Normal) Practice Demon for 158 magical damage. (Penetrated)
+[13:35:51] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:35:52] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:35:52] You successfully used Bloodline.
+[13:35:52] You start using Bloodline.
+[13:35:52] (Critical) Your Bloodline hits (Normal) Practice Demon for 158 magical damage. (Normal)
+[13:35:52] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:35:52] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:35:53] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:35:53] You successfully used Bloodline.
+[13:35:53] You start using Bloodline.
+[13:35:53] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:35:53] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:35:53] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:35:54] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:54] You successfully used Bloodline.
+[13:35:54] You start using Bloodline.
+[13:35:54] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:35:54] Your Bloodline hits (Normal) Practice Demon for 88 magical damage. (Blocked)
+[13:35:54] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:35:55] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:35:55] You successfully used Bloodline.
+[13:35:55] You start using Bloodline.
+[13:35:55] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:35:55] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:35:55] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:35:56] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:35:56] You successfully used Bloodline.
+[13:35:56] You start using Bloodline.
+[13:35:56] Your Bloodline hits (Normal) Practice Demon for 76 magical damage. (Blocked)
+[13:35:56] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:35:56] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:35:57] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:35:57] You successfully used Bloodline.
+[13:35:57] You start using Bloodline.
+[13:35:57] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:35:57] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:35:57] Your Bloodline hits (Normal) Practice Demon for 175 magical damage. (Penetrated)
+[13:35:58] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:35:58] You successfully used Bloodline.
+[13:35:58] You start using Bloodline.
+[13:35:58] Your Bloodline hits (Normal) Practice Demon for 82 magical damage. (Blocked)
+[13:35:58] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:35:58] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:35:59] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:35:59] You successfully used Bloodline.
+[13:35:59] You start using Bloodline.
+[13:35:59] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:35:59] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:35:59] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:36:00] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:00] You successfully used Bloodline.
+[13:36:00] You start using Bloodline.
+[13:36:00] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:00] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:00] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:36:01] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:01] You successfully used Bloodline.
+[13:36:01] You start using Bloodline.
+[13:36:01] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:01] Your Bloodline hits (Normal) Practice Demon for 183 magical damage. (Penetrated)
+[13:36:01] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:02] Your Bloodline hits (Normal) Practice Demon for 189 magical damage. (Penetrated)
+[13:36:02] You successfully used Bloodline.
+[13:36:02] You start using Bloodline.
+[13:36:02] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:02] Your Bloodline hits (Normal) Practice Demon for 184 magical damage. (Penetrated)
+[13:36:02] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:03] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:36:03] You successfully used Bloodline.
+[13:36:03] You start using Bloodline.
+[13:36:03] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:36:03] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:36:03] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:04] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:36:04] You successfully used Bloodline.
+[13:36:04] You start using Bloodline.
+[13:36:04] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:04] Your Bloodline hits (Normal) Practice Demon for 81 magical damage. (Blocked)
+[13:36:04] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:05] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:05] You successfully used Bloodline.
+[13:36:05] You start using Bloodline.
+[13:36:05] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:05] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:05] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:06] (Critical) Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Blocked)
+[13:36:06] You successfully used Bloodline.
+[13:36:06] You start using Bloodline.
+[13:36:06] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:06] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:36:06] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:07] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:36:07] You successfully used Bloodline.
+[13:36:07] You start using Bloodline.
+[13:36:07] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:07] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:07] Your Bloodline hits (Normal) Practice Demon for 171 magical damage. (Penetrated)
+[13:36:08] Your Bloodline hits (Normal) Practice Demon for 190 magical damage. (Penetrated)
+[13:36:08] You successfully used Bloodline.
+[13:36:08] You start using Bloodline.
+[13:36:08] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:08] Your Bloodline hits (Normal) Practice Demon for 76 magical damage. (Blocked)
+[13:36:08] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:09] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:09] You successfully used Bloodline.
+[13:36:09] You start using Bloodline.
+[13:36:09] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:36:09] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:36:09] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:36:10] Your Bloodline hits (Normal) Practice Demon for 183 magical damage. (Penetrated)
+[13:36:10] You successfully used Bloodline.
+[13:36:10] You start using Bloodline.
+[13:36:10] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:10] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:10] Your Bloodline hits (Normal) Practice Demon for 75 magical damage. (Blocked)
+[13:36:11] Your Bloodline hits (Normal) Practice Demon for 75 magical damage. (Blocked)
+[13:36:11] You successfully used Bloodline.
+[13:36:11] You start using Bloodline.
+[13:36:11] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:11] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:36:11] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:12] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:12] You successfully used Bloodline.
+[13:36:12] You start using Bloodline.
+[13:36:12] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:12] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:12] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:13] Your Bloodline hits (Normal) Practice Demon for 79 magical damage. (Blocked)
+[13:36:13] You successfully used Bloodline.
+[13:36:13] You start using Bloodline.
+[13:36:13] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:13] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:13] Your Bloodline hits (Normal) Practice Demon for 166 magical damage. (Penetrated)
+[13:36:14] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:36:14] You successfully used Bloodline.
+[13:36:14] You start using Bloodline.
+[13:36:14] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:14] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:14] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:15] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:15] You successfully used Bloodline.
+[13:36:15] You start using Bloodline.
+[13:36:15] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:15] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:36:15] Your Bloodline hits (Normal) Practice Demon for 173 magical damage. (Penetrated)
+[13:36:16] (Critical) Your Bloodline hits (Normal) Practice Demon for 134 magical damage. (Normal)
+[13:36:16] You successfully used Bloodline.
+[13:36:16] You start using Bloodline.
+[13:36:16] (Critical) Your Bloodline hits (Normal) Practice Demon for 210 magical damage. (Penetrated)
+[13:36:16] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:16] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:17] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:36:17] You successfully used Bloodline.
+[13:36:17] You start using Bloodline.
+[13:36:17] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:17] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:36:17] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:36:18] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:36:18] You successfully used Bloodline.
+[13:36:18] You start using Bloodline.
+[13:36:18] Your Bloodline hits (Normal) Practice Demon for 82 magical damage. (Blocked)
+[13:36:18] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:36:18] (Critical) Your Bloodline hits (Normal) Practice Demon for 93 magical damage. (Blocked)
+[13:36:19] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:19] You successfully used Bloodline.
+[13:36:19] You start using Bloodline.
+[13:36:19] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:36:19] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:36:19] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:20] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:36:20] You successfully used Bloodline.
+[13:36:20] You start using Bloodline.
+[13:36:20] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:20] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:20] Your Bloodline hits (Normal) Practice Demon for 173 magical damage. (Penetrated)
+[13:36:21] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:36:21] You successfully used Bloodline.
+[13:36:21] You start using Bloodline.
+[13:36:21] (Critical) Your Bloodline hits (Normal) Practice Demon for 139 magical damage. (Normal)
+[13:36:21] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:21] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:22] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:22] You successfully used Bloodline.
+[13:36:22] You start using Bloodline.
+[13:36:22] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:36:22] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:22] Your Bloodline hits (Normal) Practice Demon for 182 magical damage. (Penetrated)
+[13:36:23] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:23] You successfully used Bloodline.
+[13:36:23] You start using Bloodline.
+[13:36:23] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:23] Your Bloodline hits (Normal) Practice Demon for 78 magical damage. (Blocked)
+[13:36:23] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:24] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:24] You successfully used Bloodline.
+[13:36:24] You start using Bloodline.
+[13:36:24] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:36:24] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:24] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:25] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:36:25] You successfully used Bloodline.
+[13:36:25] You start using Bloodline.
+[13:36:25] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:36:25] Your Bloodline hits (Normal) Practice Demon for 82 magical damage. (Blocked)
+[13:36:25] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:26] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:26] You successfully used Bloodline.
+[13:36:26] You start using Bloodline.
+[13:36:26] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:26] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:26] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:27] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:27] You successfully used Bloodline.
+[13:36:27] You start using Bloodline.
+[13:36:27] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:27] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:27] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:36:28] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:36:28] You successfully used Bloodline.
+[13:36:28] You start using Bloodline.
+[13:36:28] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:36:28] Your Bloodline hits (Normal) Practice Demon for 78 magical damage. (Blocked)
+[13:36:29] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:36:29] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:29] You successfully used Bloodline.
+[13:36:29] You start using Bloodline.
+[13:36:29] Your Bloodline hits (Normal) Practice Demon for 184 magical damage. (Penetrated)
+[13:36:29] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:30] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:36:30] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:30] You successfully used Bloodline.
+[13:36:30] You start using Bloodline.
+[13:36:30] (Critical) Your Bloodline hits (Normal) Practice Demon for 148 magical damage. (Normal)
+[13:36:30] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:31] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:31] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:36:31] You successfully used Bloodline.
+[13:36:31] You start using Bloodline.
+[13:36:31] Your Bloodline hits (Normal) Practice Demon for 183 magical damage. (Penetrated)
+[13:36:31] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:36:32] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:32] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:36:32] You successfully used Bloodline.
+[13:36:32] You start using Bloodline.
+[13:36:32] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:32] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:36:33] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:33] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:33] You successfully used Bloodline.
+[13:36:33] You start using Bloodline.
+[13:36:33] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:36:33] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:36:34] Your Bloodline hits (Normal) Practice Demon for 176 magical damage. (Penetrated)
+[13:36:34] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:36:34] You successfully used Bloodline.
+[13:36:34] You start using Bloodline.
+[13:36:34] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:36:34] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:35] Your Bloodline hits (Normal) Practice Demon for 168 magical damage. (Penetrated)
+[13:36:35] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:36:35] You successfully used Bloodline.
+[13:36:35] You start using Bloodline.
+[13:36:35] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:35] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:36:36] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:36] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:36] You successfully used Bloodline.
+[13:36:36] You start using Bloodline.
+[13:36:36] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:36] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:36:37] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:37] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:37] You successfully used Bloodline.
+[13:36:37] You start using Bloodline.
+[13:36:37] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:37] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:38] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:38] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:38] You successfully used Bloodline.
+[13:36:38] You start using Bloodline.
+[13:36:38] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:38] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:39] Your Bloodline hits (Normal) Practice Demon for 174 magical damage. (Penetrated)
+[13:36:39] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:36:39] You successfully used Bloodline.
+[13:36:39] You start using Bloodline.
+[13:36:39] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:36:39] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:40] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:40] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:40] You successfully used Bloodline.
+[13:36:40] You start using Bloodline.
+[13:36:40] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:40] Your Bloodline hits (Normal) Practice Demon for 161 magical damage. (Penetrated)
+[13:36:41] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:41] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:41] You successfully used Bloodline.
+[13:36:41] You start using Bloodline.
+[13:36:41] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:36:41] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:42] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:42] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:42] You successfully used Bloodline.
+[13:36:42] You start using Bloodline.
+[13:36:42] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:36:42] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:36:43] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:43] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:43] You successfully used Bloodline.
+[13:36:43] You start using Bloodline.
+[13:36:43] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:36:43] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:36:44] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:36:44] Your Bloodline hits (Normal) Practice Demon for 191 magical damage. (Penetrated)
+[13:36:44] You successfully used Bloodline.
+[13:36:44] You start using Bloodline.
+[13:36:44] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:44] Your Bloodline hits (Normal) Practice Demon for 75 magical damage. (Blocked)
+[13:36:45] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:36:45] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:45] You successfully used Bloodline.
+[13:36:45] You start using Bloodline.
+[13:36:45] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:45] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:36:46] Your Bloodline hits (Normal) Practice Demon for 79 magical damage. (Blocked)
+[13:36:46] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:36:46] You successfully used Bloodline.
+[13:36:46] You start using Bloodline.
+[13:36:46] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:46] (Critical) Your Bloodline hits (Normal) Practice Demon for 206 magical damage. (Penetrated)
+[13:36:47] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:47] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:47] You successfully used Bloodline.
+[13:36:47] You start using Bloodline.
+[13:36:47] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:36:48] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:48] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:48] Your Bloodline hits (Normal) Practice Demon for 75 magical damage. (Blocked)
+[13:36:48] You successfully used Bloodline.
+[13:36:48] You start using Bloodline.
+[13:36:49] Your Bloodline hits (Normal) Practice Demon for 171 magical damage. (Penetrated)
+[13:36:49] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:49] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:36:49] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:36:49] You successfully used Bloodline.
+[13:36:49] You start using Bloodline.
+[13:36:50] Your Bloodline hits (Normal) Practice Demon for 78 magical damage. (Blocked)
+[13:36:50] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:50] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:50] Your Bloodline hits (Normal) Practice Demon for 78 magical damage. (Blocked)
+[13:36:50] You successfully used Bloodline.
+[13:36:50] You start using Bloodline.
+[13:36:51] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:36:51] (Critical) Your Bloodline hits (Normal) Practice Demon for 201 magical damage. (Penetrated)
+[13:36:51] Your Bloodline hits (Normal) Practice Demon for 87 magical damage. (Blocked)
+[13:36:51] Your Bloodline hits (Normal) Practice Demon for 88 magical damage. (Blocked)
+[13:36:51] You successfully used Bloodline.
+[13:36:51] You start using Bloodline.
+[13:36:52] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:52] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:52] Your Bloodline hits (Normal) Practice Demon for 88 magical damage. (Blocked)
+[13:36:52] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:52] You successfully used Bloodline.
+[13:36:52] You start using Bloodline.
+[13:36:53] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:36:53] Your Bloodline hits (Normal) Practice Demon for 169 magical damage. (Penetrated)
+[13:36:53] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:36:53] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:36:53] You successfully used Bloodline.
+[13:36:53] You start using Bloodline.
+[13:36:54] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:54] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:36:54] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:36:54] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:36:54] You successfully used Bloodline.
+[13:36:54] You start using Bloodline.
+[13:36:55] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:55] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:36:55] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:55] Your Bloodline hits (Normal) Practice Demon for 77 magical damage. (Blocked)
+[13:36:55] You successfully used Bloodline.
+[13:36:55] You start using Bloodline.
+[13:36:56] Your Bloodline hits (Normal) Practice Demon for 186 magical damage. (Penetrated)
+[13:36:56] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:36:56] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:56] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:36:56] You successfully used Bloodline.
+[13:36:56] You start using Bloodline.
+[13:36:57] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:36:57] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:36:57] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:57] Your Bloodline hits (Normal) Practice Demon for 183 magical damage. (Penetrated)
+[13:36:57] You successfully used Bloodline.
+[13:36:57] You start using Bloodline.
+[13:36:58] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:58] Your Bloodline hits (Normal) Practice Demon for 78 magical damage. (Blocked)
+[13:36:58] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:36:58] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:36:58] You successfully used Bloodline.
+[13:36:58] You start using Bloodline.
+[13:36:59] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:36:59] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:36:59] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:36:59] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:36:59] You successfully used Bloodline.
+[13:36:59] You start using Bloodline.
+[13:37:00] Your Bloodline hits (Normal) Practice Demon for 130 magical damage. (Normal)
+[13:37:00] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:37:00] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:00] (Critical) Your Bloodline hits (Normal) Practice Demon for 150 magical damage. (Normal)
+[13:37:00] You successfully used Bloodline.
+[13:37:00] You start using Bloodline.
+[13:37:01] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:01] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:01] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:37:01] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:01] You successfully used Bloodline.
+[13:37:01] You start using Bloodline.
+[13:37:02] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:02] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:02] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:02] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:02] You successfully used Bloodline.
+[13:37:02] You start using Bloodline.
+[13:37:03] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:37:03] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:03] (Critical) Your Bloodline hits (Normal) Practice Demon for 154 magical damage. (Normal)
+[13:37:03] Your Bloodline hits (Normal) Practice Demon for 161 magical damage. (Penetrated)
+[13:37:03] You successfully used Bloodline.
+[13:37:03] You start using Bloodline.
+[13:37:04] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:04] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:04] Your Bloodline hits (Normal) Practice Demon for 76 magical damage. (Blocked)
+[13:37:04] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:37:04] You successfully used Bloodline.
+[13:37:04] You start using Bloodline.
+[13:37:05] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:05] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:05] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:05] Your Bloodline hits (Normal) Practice Demon for 75 magical damage. (Blocked)
+[13:37:05] You successfully used Bloodline.
+[13:37:05] You start using Bloodline.
+[13:37:06] (Critical) Your Bloodline hits (Normal) Practice Demon for 153 magical damage. (Normal)
+[13:37:06] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:06] Your Bloodline hits (Normal) Practice Demon for 130 magical damage. (Normal)
+[13:37:06] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:06] You successfully used Bloodline.
+[13:37:06] You start using Bloodline.
+[13:37:07] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:07] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:07] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:37:07] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:07] You successfully used Bloodline.
+[13:37:07] You start using Bloodline.
+[13:37:08] Your Bloodline hits (Normal) Practice Demon for 183 magical damage. (Penetrated)
+[13:37:08] Your Bloodline hits (Normal) Practice Demon for 89 magical damage. (Blocked)
+[13:37:08] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:37:08] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:08] You successfully used Bloodline.
+[13:37:09] You start using Bloodline.
+[13:37:09] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:09] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:09] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:09] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:37:09] You successfully used Bloodline.
+[13:37:10] You start using Bloodline.
+[13:37:10] Your Bloodline hits (Normal) Practice Demon for 159 magical damage. (Penetrated)
+[13:37:10] Your Bloodline hits (Normal) Practice Demon for 192 magical damage. (Penetrated)
+[13:37:10] (Critical) Your Bloodline hits (Normal) Practice Demon for 134 magical damage. (Normal)
+[13:37:10] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:37:10] You successfully used Bloodline.
+[13:37:11] You start using Bloodline.
+[13:37:11] Your Bloodline hits (Normal) Practice Demon for 75 magical damage. (Blocked)
+[13:37:11] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:11] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:37:11] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:11] You successfully used Bloodline.
+[13:37:12] You start using Bloodline.
+[13:37:12] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:12] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:12] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:12] (Critical) Your Bloodline hits (Normal) Practice Demon for 144 magical damage. (Normal)
+[13:37:12] You successfully used Bloodline.
+[13:37:13] You start using Bloodline.
+[13:37:13] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:13] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:13] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:13] Your Bloodline hits (Normal) Practice Demon for 86 magical damage. (Blocked)
+[13:37:13] You successfully used Bloodline.
+[13:37:14] You start using Bloodline.
+[13:37:14] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:14] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:14] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:14] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:37:14] You successfully used Bloodline.
+[13:37:15] You start using Bloodline.
+[13:37:15] Your Bloodline hits (Normal) Practice Demon for 79 magical damage. (Blocked)
+[13:37:15] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:15] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:15] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:16] You successfully used Bloodline.
+[13:37:16] You start using Bloodline.
+[13:37:16] Your Bloodline hits (Normal) Practice Demon for 168 magical damage. (Penetrated)
+[13:37:16] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:16] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:17] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:17] You successfully used Bloodline.
+[13:37:17] You start using Bloodline.
+[13:37:17] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:17] Your Bloodline hits (Normal) Practice Demon for 167 magical damage. (Penetrated)
+[13:37:17] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:18] Your Bloodline hits (Normal) Practice Demon for 106 magical damage. (Normal)
+[13:37:18] You successfully used Bloodline.
+[13:37:18] You start using Bloodline.
+[13:37:18] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:18] Your Bloodline hits (Normal) Practice Demon for 185 magical damage. (Penetrated)
+[13:37:18] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:19] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:19] You successfully used Bloodline.
+[13:37:19] You start using Bloodline.
+[13:37:19] Your Bloodline hits (Normal) Practice Demon for 80 magical damage. (Blocked)
+[13:37:19] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:19] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:20] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:20] You successfully used Bloodline.
+[13:37:20] You start using Bloodline.
+[13:37:20] Your Bloodline hits (Normal) Practice Demon for 160 magical damage. (Penetrated)
+[13:37:20] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:37:20] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:21] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:37:21] You successfully used Bloodline.
+[13:37:21] You start using Bloodline.
+[13:37:21] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:21] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:21] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:22] Your Bloodline hits (Normal) Practice Demon for 87 magical damage. (Blocked)
+[13:37:22] You successfully used Bloodline.
+[13:37:22] You start using Bloodline.
+[13:37:22] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:37:22] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:22] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:23] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:23] You successfully used Bloodline.
+[13:37:23] You start using Bloodline.
+[13:37:23] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:37:23] Your Bloodline hits (Normal) Practice Demon for 188 magical damage. (Penetrated)
+[13:37:23] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:24] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:37:24] You successfully used Bloodline.
+[13:37:24] You start using Bloodline.
+[13:37:24] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:24] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:24] Your Bloodline hits (Normal) Practice Demon for 191 magical damage. (Penetrated)
+[13:37:25] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:25] You successfully used Bloodline.
+[13:37:25] You start using Bloodline.
+[13:37:25] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:37:25] (Critical) Your Bloodline hits (Normal) Practice Demon for 145 magical damage. (Normal)
+[13:37:25] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:26] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:37:26] You successfully used Bloodline.
+[13:37:26] You start using Bloodline.
+[13:37:26] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:26] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:26] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:27] (Critical) Your Bloodline hits (Normal) Practice Demon for 153 magical damage. (Normal)
+[13:37:27] You successfully used Bloodline.
+[13:37:27] You start using Bloodline.
+[13:37:27] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:27] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:37:27] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:28] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:37:28] You successfully used Bloodline.
+[13:37:28] You start using Bloodline.
+[13:37:28] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:28] Your Bloodline hits (Normal) Practice Demon for 186 magical damage. (Penetrated)
+[13:37:28] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:29] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:29] You successfully used Bloodline.
+[13:37:29] You start using Bloodline.
+[13:37:29] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:37:29] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:29] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:30] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:37:30] You successfully used Bloodline.
+[13:37:30] You start using Bloodline.
+[13:37:30] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:30] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:30] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:31] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:31] You successfully used Bloodline.
+[13:37:31] You start using Bloodline.
+[13:37:31] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:31] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:37:31] (Critical) Your Bloodline hits (Normal) Practice Demon for 154 magical damage. (Normal)
+[13:37:32] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:37:32] You successfully used Bloodline.
+[13:37:32] You start using Bloodline.
+[13:37:32] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:37:32] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:37:32] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:33] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:33] You successfully used Bloodline.
+[13:37:33] You start using Bloodline.
+[13:37:33] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:33] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:33] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:37:34] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:37:34] You successfully used Bloodline.
+[13:37:34] You start using Bloodline.
+[13:37:34] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:34] Your Bloodline hits (Normal) Practice Demon for 89 magical damage. (Blocked)
+[13:37:34] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:35] Your Bloodline hits (Normal) Practice Demon for 130 magical damage. (Normal)
+[13:37:35] You successfully used Bloodline.
+[13:37:35] You start using Bloodline.
+[13:37:35] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:35] (Critical) Your Bloodline hits (Normal) Practice Demon for 137 magical damage. (Normal)
+[13:37:35] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:36] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:37:36] You successfully used Bloodline.
+[13:37:36] You start using Bloodline.
+[13:37:36] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:36] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:37:36] (Critical) Your Bloodline hits (Normal) Practice Demon for 101 magical damage. (Blocked)
+[13:37:37] Your Bloodline hits (Normal) Practice Demon for 80 magical damage. (Blocked)
+[13:37:37] You successfully used Bloodline.
+[13:37:37] You start using Bloodline.
+[13:37:37] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:37:37] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:37] Your Bloodline hits (Normal) Practice Demon for 161 magical damage. (Penetrated)
+[13:37:38] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:37:38] You successfully used Bloodline.
+[13:37:38] You start using Bloodline.
+[13:37:38] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:37:38] (Critical) Your Bloodline hits (Normal) Practice Demon for 139 magical damage. (Normal)
+[13:37:38] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:39] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:37:39] You successfully used Bloodline.
+[13:37:39] You start using Bloodline.
+[13:37:39] (Critical) Your Bloodline hits (Normal) Practice Demon for 135 magical damage. (Normal)
+[13:37:39] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:37:39] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:37:40] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:40] You successfully used Bloodline.
+[13:37:40] You start using Bloodline.
+[13:37:40] Your Bloodline hits (Normal) Practice Demon for 80 magical damage. (Blocked)
+[13:37:40] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:37:40] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:41] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:37:41] You successfully used Bloodline.
+[13:37:41] You start using Bloodline.
+[13:37:41] (Critical) Your Bloodline hits (Normal) Practice Demon for 137 magical damage. (Normal)
+[13:37:41] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:37:42] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:42] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:42] You successfully used Bloodline.
+[13:37:42] You start using Bloodline.
+[13:37:42] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:42] Your Bloodline hits (Normal) Practice Demon for 80 magical damage. (Blocked)
+[13:37:43] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:37:43] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:37:43] You successfully used Bloodline.
+[13:37:43] You start using Bloodline.
+[13:37:43] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:37:43] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:37:44] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:44] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:37:44] You successfully used Bloodline.
+[13:37:44] You start using Bloodline.
+[13:37:44] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:37:44] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:37:45] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:45] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:45] You successfully used Bloodline.
+[13:37:45] You start using Bloodline.
+[13:37:45] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:37:45] Your Bloodline hits (Normal) Practice Demon for 76 magical damage. (Blocked)
+[13:37:46] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:46] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:46] You successfully used Bloodline.
+[13:37:46] You start using Bloodline.
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 84 magical damage. (Blocked)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:37:48] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:37:48] You successfully used Bloodline.
+[13:37:48] You start using Bloodline.
+[13:37:49] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:37:49] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:49] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:49] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:37:49] You successfully used Bloodline.
+[13:37:49] You start using Bloodline.
+[13:37:49] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:50] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:37:50] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:50] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:50] You successfully used Bloodline.
+[13:37:50] You start using Bloodline.
+[13:37:50] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:51] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:37:51] Your Bloodline hits (Normal) Practice Demon for 87 magical damage. (Blocked)
+[13:37:51] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:51] You successfully used Bloodline.
+[13:37:51] You start using Bloodline.
+[13:37:51] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:52] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:37:52] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:52] Your Bloodline hits (Normal) Practice Demon for 126 magical damage. (Normal)
+[13:37:52] You successfully used Bloodline.
+[13:37:52] You start using Bloodline.
+[13:37:52] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:53] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:53] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:37:53] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:53] You successfully used Bloodline.
+[13:37:53] You start using Bloodline.
+[13:37:53] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:54] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:37:54] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:37:54] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:37:54] You successfully used Bloodline.
+[13:37:54] You start using Bloodline.
+[13:37:54] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:55] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:55] Your Bloodline hits (Normal) Practice Demon for 83 magical damage. (Blocked)
+[13:37:55] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:37:55] You successfully used Bloodline.
+[13:37:55] You start using Bloodline.
+[13:37:55] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:56] Your Bloodline hits (Normal) Practice Demon for 79 magical damage. (Blocked)
+[13:37:56] Your Bloodline hits (Normal) Practice Demon for 87 magical damage. (Blocked)
+[13:37:56] Your Bloodline hits (Normal) Practice Demon for 79 magical damage. (Blocked)
+[13:37:56] You successfully used Bloodline.
+[13:37:56] You start using Bloodline.
+[13:37:56] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:37:57] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:37:57] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:37:57] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:57] You successfully used Bloodline.
+[13:37:57] You start using Bloodline.
+[13:37:57] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:37:58] Your Bloodline hits (Normal) Practice Demon for 76 magical damage. (Blocked)
+[13:37:58] Your Bloodline hits (Normal) Practice Demon for 109 magical damage. (Normal)
+[13:37:58] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:37:58] You successfully used Bloodline.
+[13:37:58] You start using Bloodline.
+[13:37:58] Your Bloodline hits (Normal) Practice Demon for 130 magical damage. (Normal)
+[13:37:59] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:37:59] Your Bloodline hits (Normal) Practice Demon for 85 magical damage. (Blocked)
+[13:37:59] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:37:59] You successfully used Bloodline.
+[13:37:59] You start using Bloodline.
+[13:38:00] Your Bloodline hits (Normal) Practice Demon for 170 magical damage. (Penetrated)
+[13:38:00] Your Bloodline hits (Normal) Practice Demon for 170 magical damage. (Penetrated)
+[13:38:00] Your Bloodline hits (Normal) Practice Demon for 88 magical damage. (Blocked)
+[13:38:00] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:38:00] You successfully used Bloodline.
+[13:38:00] You start using Bloodline.
+[13:38:01] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:38:01] Your Bloodline hits (Normal) Practice Demon for 80 magical damage. (Blocked)
+[13:38:01] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:38:01] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:38:01] You successfully used Bloodline.
+[13:38:01] You start using Bloodline.
+[13:38:02] Your Bloodline hits (Normal) Practice Demon for 165 magical damage. (Penetrated)
+[13:38:02] Your Bloodline hits (Normal) Practice Demon for 188 magical damage. (Penetrated)
+[13:38:02] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:38:02] Your Bloodline hits (Normal) Practice Demon for 187 magical damage. (Penetrated)
+[13:38:02] You successfully used Bloodline.
+[13:38:02] You start using Bloodline.
+[13:38:03] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:38:03] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:38:03] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:38:03] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:38:03] You successfully used Bloodline.
+[13:38:03] You start using Bloodline.
+[13:38:04] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:38:04] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:38:04] Your Bloodline hits (Normal) Practice Demon for 117 magical damage. (Normal)
+[13:38:04] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:38:04] You successfully used Bloodline.
+[13:38:04] You start using Bloodline.
+[13:38:05] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:38:05] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:38:05] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:38:05] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:38:05] You successfully used Bloodline.
+[13:38:05] You start using Bloodline.
+[13:38:06] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:38:06] Your Bloodline hits (Normal) Practice Demon for 118 magical damage. (Normal)
+[13:38:06] Your Bloodline hits (Normal) Practice Demon for 162 magical damage. (Penetrated)
+[13:38:06] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:38:06] You successfully used Bloodline.
+[13:38:06] You start using Bloodline.
+[13:38:07] Your Bloodline hits (Normal) Practice Demon for 110 magical damage. (Normal)
+[13:38:07] Your Bloodline hits (Normal) Practice Demon for 128 magical damage. (Normal)
+[13:38:07] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:38:07] Your Bloodline hits (Normal) Practice Demon for 111 magical damage. (Normal)
+[13:38:07] You successfully used Bloodline.
+[13:38:07] You start using Bloodline.
+[13:38:08] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:38:08] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:38:08] Your Bloodline hits (Normal) Practice Demon for 107 magical damage. (Normal)
+[13:38:08] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:38:08] You successfully used Bloodline.
+[13:38:08] You start using Bloodline.
+[13:38:09] Your Bloodline hits (Normal) Practice Demon for 120 magical damage. (Normal)
+[13:38:09] Your Bloodline hits (Normal) Practice Demon for 129 magical damage. (Normal)
+[13:38:09] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:38:09] Your Bloodline hits (Normal) Practice Demon for 114 magical damage. (Normal)
+[13:38:09] You successfully used Bloodline.
+[13:38:09] You start using Bloodline.
+[13:38:10] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:38:10] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:38:10] Your Bloodline hits (Normal) Practice Demon for 116 magical damage. (Normal)
+[13:38:10] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:38:10] You successfully used Bloodline.
+[13:38:10] You start using Bloodline.
+[13:38:11] Your Bloodline hits (Normal) Practice Demon for 163 magical damage. (Penetrated)
+[13:38:11] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:38:11] Your Bloodline hits (Normal) Practice Demon for 115 magical damage. (Normal)
+[13:38:11] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:38:11] You successfully used Bloodline.
+[13:38:11] You start using Bloodline.
+[13:38:12] Your Bloodline hits (Normal) Practice Demon for 130 magical damage. (Normal)
+[13:38:12] Your Bloodline hits (Normal) Practice Demon for 121 magical damage. (Normal)
+[13:38:12] Your Bloodline hits (Normal) Practice Demon for 123 magical damage. (Normal)
+[13:38:12] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:38:12] You successfully used Bloodline.
+[13:38:12] You start using Bloodline.
+[13:38:13] Your Bloodline hits (Normal) Practice Demon for 90 magical damage. (Blocked)
+[13:38:13] Your Bloodline hits (Normal) Practice Demon for 182 magical damage. (Penetrated)
+[13:38:13] Your Bloodline hits (Normal) Practice Demon for 125 magical damage. (Normal)
+[13:38:13] Your Bloodline hits (Normal) Practice Demon for 81 magical damage. (Blocked)
+[13:38:13] You successfully used Bloodline.
+[13:38:13] You start using Bloodline.
+[13:38:14] Your Bloodline hits (Normal) Practice Demon for 124 magical damage. (Normal)
+[13:38:14] Your Bloodline hits (Normal) Practice Demon for 122 magical damage. (Normal)
+[13:38:14] Your Bloodline hits (Normal) Practice Demon for 119 magical damage. (Normal)
+[13:38:14] Your Bloodline hits (Normal) Practice Demon for 108 magical damage. (Normal)
+[13:38:14] You successfully used Bloodline.
+[13:38:14] You start using Bloodline.
+[13:38:15] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:38:15] Your Bloodline hits (Normal) Practice Demon for 127 magical damage. (Normal)
+[13:38:15] Your Bloodline hits (Normal) Practice Demon for 112 magical damage. (Normal)
+[13:38:15] Your Bloodline hits (Normal) Practice Demon for 113 magical damage. (Normal)
+[13:38:15] You successfully used Bloodline.
+[13:38:18] Logging finished
